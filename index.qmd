@@ -18,4 +18,7 @@ about:
       href: https://emiller1031.github.io/quartowebsites/resume.html
   id: ppc
 ---
+
+:::{#ppc}
 I am a Chicago-based aspiring urban planner with an interest in climate change adaptation. I will graduate from the University of Illinois Chicago's Master of Urban Planning and Policy program in May 2024, and I am seeking professional opportunities relating to zoning, civic technology, GIS, and data visualization.
+:::
