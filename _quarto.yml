@@ -7,8 +7,9 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - syllabus.qmd
+        text: About
+      - resume.qmd
+      - spring2024.qmd
 
 format:
   html:

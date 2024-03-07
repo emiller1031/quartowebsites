@@ -15,16 +15,7 @@ about:
       href: https://github.com/emiller1031
     - text: Resume
       icon: file-text
-      href: ElizabethMiller_2024_resume_1_28.pdf
+      href: https://emiller1031.github.io/quartowebsites/resume.html
   id: ppc
 ---
-Other text
-
-:::{#ppc}
-
-This is PA 446.
-
-We are learning about coding for civic data applications
-
-![Urban renewal in the Illinois Medical District](1970_3914_04_gif_15frames.gif)
-:::
+I am a Chicago-based aspiring urban planner with an interest in climate change adaptation. I will graduate from the University of Illinois Chicago's Master of Urban Planning and Policy program in May 2024, and I am seeking professional opportunities relating to zoning, civic technology, GIS, and data visualization.
