@@ -1,13 +1,15 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "quartowebsites"
+  title: "PA446 Quarto Website"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - pa446syllabus.qmd
 
 format:
   html:
