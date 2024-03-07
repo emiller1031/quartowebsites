@@ -1,11 +1,30 @@
 ---
-title: "quartowebsites"
+title: "Elizabeth Miller"
+image: EMillerHeadshot2023.jpg
+resources: ElizabethMiller_2024_resume_1_28.pdf
+about:
+  template: trestles
+  image-shape: round
+  image-width: 15em
+  links:
+    - text: Email
+      icon: envelope
+      href: mailto:emille56@uic.edu
+    - text: GitHub
+      icon: github
+      href: https://github.com/emiller1031
+    - text: Resume
+      icon: file-text
+      href: ElizabethMiller_2024_resume_1_28.pdf
+  id: ppc
 ---
+Other text
 
-This is a Quarto website.
+:::{#ppc}
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+This is PA 446.
 
-```{r}
-1 + 1
-```
+We are learning about coding for civic data applications
+
+![Urban renewal in the Illinois Medical District](1970_3914_04_gif_15frames.gif)
+:::

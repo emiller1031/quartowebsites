@@ -8,11 +8,12 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - syllabus.qmd
 
 format:
   html:
     theme: cosmo
+    mainfont: roboto
     css: styles.css
     toc: true
 
